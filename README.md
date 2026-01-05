@@ -1,42 +1,3 @@
-Beszélgetés megnyitva. 25 üzenet. 1 olvasatlan üzenet. 
-
-
-Ugrás a tartalomra
-A Gmail használata képernyőolvasóval
-2 781/13.
-paper on SLRs
-Beérkező levelek
-
-Maria Lugaro
-Mellékletek
-2025. máj. 9. 13:04
-Dear all, a first complete draft of Benjamin (the young)'s paper is ready! As we both are busy until the end of May, we pass it over for you to check and send u
-22
-
-Benjámin Soós
-2025. dec. 16. 8:46
-Dear Andrés and Tom, Thank you for your replies! Thanks Andrés, I'll update the licence accordingly. Have a nice week, Benjámim
-
-Andrés Yagüe
-Mellékletek
-2025. dec. 21. 6:25
-címzett: én, Andres
-
-Benjámin,
-
-I am still looking at the paper, but I have one last comment for the code repository. I see that you tried to structure the README.md using some ascii characters which is not a bad idea, but it being a markdown file you can get something that renders a bit nicer. For example, if you use the attached README.md, you'll get the github page to show something like this:
-
-image.png
-I also have added installation instructions, which I think can be helpful. Let me know your opinion! If you want to see how markdown files are going to show up, you can use this very useful tool:
-
-https://markdownlivepreview.com/
-
-It gives you tips and lets you try things live.
-
-Cheers,
-Andrés
- Egy melléklet
-  •  A Gmail által ellenőrizve
 # SLRs vs Meanlife plotting script
 
 ## Description
@@ -70,5 +31,3 @@ You need at least `Python 3.8`, the dependencies for the code can be installed w
 ```sh
 python3 -m pip install -r requirements.txt
 ```
-README.md
-README.md megjelenítése. 
